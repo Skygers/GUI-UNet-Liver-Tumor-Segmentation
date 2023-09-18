@@ -1,6 +1,5 @@
 import sys
 import matplotlib.pyplot as plt
-sys.path.append('D:\AISegGUI\pyqtgraph\Model')
 from PySide6.QtWidgets import QMainWindow, QWidget, QFileDialog, QMessageBox
 from PySide6.QtGui import QImage, QPixmap
 import cv2
