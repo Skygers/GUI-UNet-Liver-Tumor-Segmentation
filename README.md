@@ -1,5 +1,5 @@
 # GUI-Liver-Tumor-Segmentation-using-UNet
-<img src="img/UI.png" alt="UI"/>
+<img src="img/AutoSegApps.gif" alt="UI"/>
 
 ## Convert UI to py File
 Use Command Prompt or CMD to convert UI file to py file
